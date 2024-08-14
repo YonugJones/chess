@@ -1,6 +1,10 @@
+import './App.css';
+
 const App = () => {
   return (
-    <h1>APP</h1>
+    <div className="app-container">
+      <h1>CHESS</h1>
+    </div>
   )
 }
 export default App;
